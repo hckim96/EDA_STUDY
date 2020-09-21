@@ -1,5 +1,5 @@
 # EDA_STUDY
-group repository for 6 members who want to deal with Python Pandas library and EDA
+group repository for members who want to deal with Python Pandas library and EDA
   
 ### STUDY 기본 사항
 1. 스터디 목적  
